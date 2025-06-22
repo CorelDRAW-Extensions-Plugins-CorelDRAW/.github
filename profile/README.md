@@ -45,7 +45,7 @@ Expand the functionality of CorelDRAW with powerful extensions and plugins — f
 ### 🖼 Preview
 
 CorelDRAW extension panel displaying installed plugins  
-![Screenshot](https://s3.amazonaws.com/cdn.freshdesk.com/data/helpdesk/attachments/production/43515382140/original/Tab-Y6mZq_YjGBEbDrRV15rzHWgX7T9PWg.png)  
+![Screenshot](https://habrastorage.org/getpro/habr/upload_files/0a6/94e/344/0a694e3444a462d7f7e494deaea1253c.png)  
 *Upgrade your creative workspace with the power of plugins*
 
 ---
